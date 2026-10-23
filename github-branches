@@ -1,0 +1,5 @@
+theia@theia-whitebeardpi:/home/project/mcino-I
+ntroduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert c00e826 [origin/bug-fix-revert] Revert "changing from 2022 to 2023"
+  bug-fix-typo   a53652a changing from 2022 to 2023
+  main           a53652a [origin/main: ahead 1] changing from 2022 to 2023
