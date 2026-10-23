@@ -1,10 +1,12 @@
-theia@theia-whitebeardpi:/home/project/mcino-Introduction
--to-Git-and-GitHub$ git checkout main
+theia@theia-whitebeardpi:/home/project/mcino-I
+ntroduction-to-Git-and-GitHub$ git checkout main
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
-theia@theia-whitebeardpi:/home/project/mcino-Introduction
--to-Git-and-GitHub$ git merge bug-fix-typo
-Updating ad95b0a..de1ecf5
+theia@theia-whitebeardpi:/home/project/mcino-I
+ntroduction-to-Git-and-GitHub$ git merge bug-fix-typo
+Updating ad95b0a..a53652a
 Fast-forward
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
+theia@theia-whitebeardpi:/home/project/mcino-I
+ntroduction-to-Git-and-GitHub$ 
